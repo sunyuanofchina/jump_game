@@ -21,3 +21,10 @@ Renderings are as follows:
 ![Image text](http://raw.github.com/sunyuanofchina/jump_game/master/jump_3.png)
 
 
+一款上楼梯的游戏，适合新手学习，cocos2d
+
+喜欢小游戏的同学，就来看一看吧。
+
+演示图如下：
+
+
