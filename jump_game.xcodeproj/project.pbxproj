@@ -827,7 +827,7 @@
 				42DAC9401649F5F2008D189C /* GameKit.framework */,
 				42DAC9371649F065008D189C /* Default-568h@2x.png */,
 				F29B23D6178BFCEF00C7A61D /* GuomobAdSDKBundle.bundle */,
-				F49E736B15ACCF46009C8E84 /* tweejump */,
+				F49E736B15ACCF46009C8E84 /* jump_game */,
 				F49E735A15ACCF46009C8E84 /* Frameworks */,
 				F49E735815ACCF46009C8E84 /* Products */,
 			);
@@ -856,7 +856,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		F49E736B15ACCF46009C8E84 /* tweejump */ = {
+		F49E736B15ACCF46009C8E84 /* jump_game */ = {
 			isa = PBXGroup;
 			children = (
 				F29B23E0178BFEF500C7A61D /* GuomobAdSDK.h */,
@@ -872,6 +872,7 @@
 				F49E738015ACCF47009C8E84 /* libs */,
 				F49E74B915ACCF4A009C8E84 /* Supporting Files */,
 			);
+			name = jump_game;
 			path = tweejump;
 			sourceTree = "<group>";
 		};
