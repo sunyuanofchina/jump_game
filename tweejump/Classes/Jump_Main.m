@@ -123,9 +123,7 @@
     [[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1.f scene:[MSetstate node]]];
 //    [setlayer BACK_Main];
 }
-//-(void)tpuch{
-//    self.isTouchEnabled = YES;
-//}
+
 -(void)Enterhelp{//游戏帮助
     [[CCDirector sharedDirector] replaceScene:[CCTransitionFade transitionWithDuration:1. scene:[Help node] withColor:ccWHITE]];
 }

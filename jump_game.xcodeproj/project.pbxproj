@@ -1231,9 +1231,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F49E735615ACCF46009C8E84 /* tweejump */ = {
+		F49E735615ACCF46009C8E84 /* jump_game */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F49E74C915ACCF4A009C8E84 /* Build configuration list for PBXNativeTarget "tweejump" */;
+			buildConfigurationList = F49E74C915ACCF4A009C8E84 /* Build configuration list for PBXNativeTarget "jump_game" */;
 			buildPhases = (
 				F49E735315ACCF46009C8E84 /* Sources */,
 				F49E735415ACCF46009C8E84 /* Frameworks */,
@@ -1243,7 +1243,7 @@
 			);
 			dependencies = (
 			);
-			name = tweejump;
+			name = jump_game;
 			productName = tweejump;
 			productReference = F49E735715ACCF46009C8E84 /* 喂小宝.app */;
 			productType = "com.apple.product-type.application";
@@ -1257,7 +1257,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = Symetrix;
 			};
-			buildConfigurationList = F49E735115ACCF46009C8E84 /* Build configuration list for PBXProject "tweejump" */;
+			buildConfigurationList = F49E735115ACCF46009C8E84 /* Build configuration list for PBXProject "jump_game" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1269,7 +1269,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F49E735615ACCF46009C8E84 /* tweejump */,
+				F49E735615ACCF46009C8E84 /* jump_game */,
 			);
 		};
 /* End PBXProject section */
@@ -1660,7 +1660,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F49E735115ACCF46009C8E84 /* Build configuration list for PBXProject "tweejump" */ = {
+		F49E735115ACCF46009C8E84 /* Build configuration list for PBXProject "jump_game" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F49E74C715ACCF4A009C8E84 /* Debug */,
@@ -1669,7 +1669,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F49E74C915ACCF4A009C8E84 /* Build configuration list for PBXNativeTarget "tweejump" */ = {
+		F49E74C915ACCF4A009C8E84 /* Build configuration list for PBXNativeTarget "jump_game" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F49E74CA15ACCF4A009C8E84 /* Debug */,
